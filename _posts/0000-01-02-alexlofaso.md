@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Blah Blah Blah Fresh Florida Orange Juice!"
 Use the left arrow to go back!
